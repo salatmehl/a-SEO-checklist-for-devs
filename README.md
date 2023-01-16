@@ -1,2 +1,2 @@
 # a-SEO-checklist-for-devs
-a SEO checklist for devs to consider whilst building a new website
+things to consider for search engine optimisation whilst building a new website
